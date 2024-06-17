@@ -1,4 +1,4 @@
-# SquareLib
+# Zd2 (SquareLib)
 ## ExampleWork
 Содержит пример работы с библиотекой.
 
@@ -13,3 +13,6 @@
 Тесты.
 * `CircleTest` - содержит тесты для класса Circle.
 * `TriangleTest` - содержит тесты для класса Triangle.
+
+# Zd3
+Задание 3 находится в файле `query.sql` 
